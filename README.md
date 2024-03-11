@@ -1,7 +1,7 @@
 # Hi!
 <pre>
 My name is Ethan Brown! I am currently working as a DevOps engineer at Blue Origin 
-in our Lunar Permenance unit, where we are working to build a next-generation 
+in our Lunar Permenance unit, where we are building a next-generation 
 human-rated lunar lander for NASA. I spend my work hours building and maintaining 
 CI/CD pipelines, constructing and integrating API's, managing cloud infrastructure, 
 and more. I spend my free time hours doing largely the same thing! I am passionate 
