@@ -4,7 +4,7 @@ My name is Ethan Brown! I am currently working as a DevOps engineer at Blue Orig
 in our Lunar Permenance unit, where we are building a next-generation human-rated 
 lunar lander for NASA. I spend my work hours building and maintaining CI/CD pipelines, 
 constructing and integrating API's, managing cloud infrastructure, and more. I spend 
-my free time hours doing largely the same thing! I am passionate about space exploration 
+my free time doing largely the same thing! I am passionate about space exploration 
 and industrial development, public transportation, and internet infrastructure.
 
 <a href="https://www.linkedin.com/in/ethan-brown-swe/">[LinkedIn]</a> - <a href="https://discordapp.com/users/fortuity/">[Discord]</a> - <a href="mailto:ethan@ewbrowntech.com">[Email]</a>
